@@ -1,0 +1,10 @@
+{
+    "program": {
+        "binary": "test/fuchsia_watch_test"
+    },
+    "sandbox": {
+        "features": [
+            "isolated-temp"
+        ]
+    }
+}
